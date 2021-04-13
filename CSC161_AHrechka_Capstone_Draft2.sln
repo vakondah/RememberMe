@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSC161_AHrechka_Capstone_Draft2", "CSC161_AHrechka_Capstone_Draft2.vcxproj", "{4513D77E-003B-4205-BBE3-00E41C57984C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4513D77E-003B-4205-BBE3-00E41C57984C}.Debug|x64.ActiveCfg = Debug|x64
+		{4513D77E-003B-4205-BBE3-00E41C57984C}.Debug|x64.Build.0 = Debug|x64
+		{4513D77E-003B-4205-BBE3-00E41C57984C}.Debug|x86.ActiveCfg = Debug|Win32
+		{4513D77E-003B-4205-BBE3-00E41C57984C}.Debug|x86.Build.0 = Debug|Win32
+		{4513D77E-003B-4205-BBE3-00E41C57984C}.Release|x64.ActiveCfg = Release|x64
+		{4513D77E-003B-4205-BBE3-00E41C57984C}.Release|x64.Build.0 = Release|x64
+		{4513D77E-003B-4205-BBE3-00E41C57984C}.Release|x86.ActiveCfg = Release|Win32
+		{4513D77E-003B-4205-BBE3-00E41C57984C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0190D0AE-4290-4B44-B6ED-5ADA6D4AB7E1}
+	EndGlobalSection
+EndGlobal

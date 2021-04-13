@@ -1,0 +1,40 @@
+9999
+4
+JSON 
+A JSON file is a file that stores simple data structures and objects in JavaScript Object Notation (JSON) format, which is a standard data interchange format. It is primarily used for transmitting data between a web application and a server.
+Active
+4
+2
+2021
+16
+50
+7787
+1
+XML
+Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+Active
+4
+7
+2020
+16
+11
+4444
+3
+AJAX
+Asynchronous JavaScript and XML is a technique for creating fast and dynamic web pages. AJAX allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page.
+Active
+4
+5
+2021
+23
+05
+1399
+1
+mvc
+MVC is a design pattern used to decouple user-interface (view), data (model), and application logic (controller). This pattern helps to achieve separation of concerns.
+Active
+4
+7
+2021
+23
+48
